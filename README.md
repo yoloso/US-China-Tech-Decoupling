@@ -61,7 +61,7 @@ A translated version of the [survey](https://github.com/yoloso/US-China-Tech-Dec
 - [Figure 4](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Code%20files/figure%204.R): _File updated on May 5, 2023_
 - [Figure 5](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Code%20files/figure%205.R): _File updated on May 5, 2023_
 - [Figure 6](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Code%20files/figure%206.R): _File updated on May 5, 2023_
-
+- [Tables](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Code%20files/tables.R): Code files for **Table 1** and **Table 2**. 
 ## Software Implementation
 
 This paper uses R version 4.2.2 to generate the results. However, it could be adapted to use with other softwares or other versions of R. For more information, please refer to [The Comprehensive R Archive Network](https://cran.r-project.org/)
