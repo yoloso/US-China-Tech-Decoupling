@@ -47,8 +47,8 @@ Simplified Chinese
 A translated version of the [survey](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Data%20reference/Survey.pdf) to English
 
 ### 2.2 Codebooks: 
-- [Code book for raw data](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date updated: April 05, 2023_
-- [Code book for clean data](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/codebook_clean.pdf): List and description of all variables in the **clean** data file. _Date updated: April 05, 2023_
+- [Code book for raw data](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Data%20reference/codebook_raw.pdf): List and description of all variables in the **raw** data file. _Date updated: April 05, 2023_
+- [Code book for clean data](https://github.com/yoloso/US-China-Tech-Decoupling/blob/main/Data%20reference/codebook_clean.pdf): List and description of all variables in the **clean** data file. _Date updated: April 05, 2023_
 
 
 ### 2.3 Data
