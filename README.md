@@ -5,7 +5,7 @@
 > This is a document with information and instruction for code and data reuse in the paper **US-China Tech Decoupling Increases Willingness to Share
 Personal Data in China** 
 
-### Information of corresponding author: 
+### Corresponding author: 
 
 **Yong Suk Lee**
 Assistant Professor of Technology, Economy, and Global Affairs, 
