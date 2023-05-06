@@ -7,6 +7,8 @@ Jingxi Wu
 > This is a document with information and instruction for data reuse in the paper **US-China Tech Decoupling Increases Willingness to Share
 Personal Data in China** 
 
+[![DOI](https://zenodo.org/badge/636888002.svg)](https://zenodo.org/badge/latestdoi/636888002)
+
 ### Information of corresponding author: 
 
 **Yong Suk Lee**
