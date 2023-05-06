@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/636888002.svg)](https://zenodo.org/badge/latestdoi/636888002)
 
-> This is a document with information and instruction for code and data reuse in the paper **US-China Tech Decoupling Increases Willingness to Share
-Personal Data in China** 
+> This is a document with information and instruction for code and data reuse in the paper **"US-China Tech Decoupling Increases Willingness to Share
+Personal Data in China," by Lee, Larsen, and Wu. ** 
 
 ### Corresponding author: 
 
