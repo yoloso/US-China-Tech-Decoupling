@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/636888002.svg)](https://zenodo.org/badge/latestdoi/636888002)
 
-> This is a document for the codes and data used in the paper **"US-China Tech Decoupling Increases Willingness to Share
-Personal Data in China," by Lee, Larsen, and Wu. ** 
+> This is a document for the codes and data used in the paper "US-China Tech Decoupling Increases Willingness to Share
+Personal Data in China," by Lee, Larsen, and Wu.  
 
 ### Corresponding author: 
 
